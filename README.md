@@ -82,3 +82,6 @@ Dashboard accessed via browser
 
 Prepared for advanced alerting (Discord/Slack/etc.)
 
+
+🙋‍♀️ Author Kavya GitHub: @kavya9864
+
