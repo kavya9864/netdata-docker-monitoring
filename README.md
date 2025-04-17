@@ -1,8 +1,15 @@
-<<<<<<< HEAD
+ELEVATE LABS TASK 7
 # 🧠 TASK 7: Monitor System Resources Using Netdata
 
 ## 📌 Objective
 Install and configure Netdata (via Docker) to visualize system and application performance metrics on an AWS EC2 instance.
+
+---
+
+## 🔧 Prerequisites
+- AWS EC2 instance running Ubuntu (with open port 19999)
+- SSH access via MobaXterm or terminal
+- Docker installed on the server
 
 ---
 
@@ -75,9 +82,3 @@ Dashboard accessed via browser
 
 Prepared for advanced alerting (Discord/Slack/etc.)
 
-
-
-
-=======
-# netdata-docker-monitoring
->>>>>>> df103a59e33cede42c7f699de4a3515f9b19b38c
