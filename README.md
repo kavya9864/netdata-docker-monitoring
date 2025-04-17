@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 TASK 7: Monitor System Resources Using Netdata
 
 ## 📌 Objective
@@ -42,6 +43,7 @@ docker run -d --name=netdata \
 This setup persists configuration and monitoring data.
 
 ✅ 4. Access Netdata Dashboard
+
 Go to:http://51.21.223.247:19999
 
 ✅ 5. View Configuration Files
@@ -67,3 +69,6 @@ Prepared for advanced alerting (Discord/Slack/etc.)
 
 
 
+=======
+# netdata-docker-monitoring
+>>>>>>> df103a59e33cede42c7f699de4a3515f9b19b38c
